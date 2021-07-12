@@ -4,4 +4,6 @@ the course's repository, or a company's private repository. I have included link
 
 ECE 4760: Design with Microcontrollers Final Project: https://people.ece.cornell.edu/land/courses/ece4760/FinalProjects/s2021/rmt229_jad452_prw56/final_project_website/index.html
 
+If you have been linked here from my resume, I have hyperlinked projects and websites right from there. 
+
 If there is any project you would like to access or have any questions on, you can reach me at: rmt229@cornell.edu
